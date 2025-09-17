@@ -10,3 +10,13 @@ scored content)
 scored content)
 - Domain 4: Accelerate Workload Migration and Modernization (20% of
 scored content)
+
+# Security Groups vs NACLs
+
+| Security Groups                                                                                                                   | NACLs                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| operate at the instance level and act as a virtual firewall, controlling inbound and outbound traffic to individual EC2 instances | operate at the subnet level and control inbound and outbound traffic for the entire subnet |
+| default deny all policy                                                                                                           | default allow all policy                                                                   |
+| allow rules only, stateful                                                                                                        | allow and deny rules, stateless                                                            |
+| evaluate rules in order of precedence                                                                                             | evaluate rules in the order they are listed, from lowest to highest rule number            |
+| automatically associated with an EC2 instance when it is launched                                                                 | automatically associated with a subnet when the subnet is created                          |
