@@ -1,4 +1,4 @@
-# AWS Solutions Architect Professional Notes
+# AWS Solutions Architect Professional SAP-C02 Notes
 
 [AWS Certified Solutions Architect - Professional (SAP-C02) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf)
 
@@ -25,16 +25,6 @@ scored content)
 | evaluate rules in order of precedence                                                                                             | evaluate rules in the order they are listed, from lowest to highest rule number            |
 | automatically associated with an EC2 instance when it is launched                                                                 | automatically associated with a subnet when the subnet is created                          |
 
-# Terms
-**Forward Web Proxy Server**: accepts requests from your private network and forwards them to the internet, acting as an intermediary for clients
-
-**Deployment Strategies**
-- **Blue/Green Deployment**: two identical environments, one (blue) running the current application version and the other (green) running the new version. After testing, traffic is switched to the green environment.
-- **Canary Deployment**: new version is rolled out to a small subset of users first
-- **Rolling Deployment**: new version is gradually rolled out to all instances in the environment, replacing the old version incrementally
-- **Immutable Deployment**: new version is deployed to a new set of instances, and once verified, the old instances are terminated
-- **All-at-once Deployment**: new version is deployed to all instances simultaneously
-
 # Services
 - [Amazon CloudWatch Metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html)
     
@@ -46,3 +36,13 @@ scored content)
 
 - [AWS DataSync](https://aws.amazon.com/datasync/)
 - [AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/)
+
+# Terms
+**Forward Web Proxy Server**: accepts requests from your private network and forwards them to the internet, acting as an intermediary for clients
+
+**Deployment Strategies**
+- **Blue/Green Deployment**: two identical environments, one (blue) running the current application version and the other (green) running the new version. After testing, traffic is switched to the green environment.
+- **Canary Deployment**: new version is rolled out to a small subset of users first
+- **Rolling Deployment**: new version is gradually rolled out to all instances in the environment, replacing the old version incrementally
+- **Immutable Deployment**: new version is deployed to a new set of instances, and once verified, the old instances are terminated
+- **All-at-once Deployment**: new version is deployed to all instances simultaneously
