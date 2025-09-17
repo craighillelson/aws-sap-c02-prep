@@ -34,3 +34,7 @@ scored content)
 - **Rolling Deployment**: new version is gradually rolled out to all instances in the environment, replacing the old version incrementally
 - **Immutable Deployment**: new version is deployed to a new set of instances, and once verified, the old instances are terminated
 - **All-at-once Deployment**: new version is deployed to all instances simultaneously
+
+# Services
+- [AWS DataSync](https://aws.amazon.com/datasync/)
+- [AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/)
