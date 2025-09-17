@@ -23,6 +23,7 @@ scored content)
 
 # Terms
 **Forward Web Proxy Server**: accepts requests from your private network and forwards them to the internet, acting as an intermediary for clients
+
 **Deployment Strategies**
 - **Blue/Green Deployment**: two identical environments, one (blue) running the current application version and the other (green) running the new version. After testing, traffic is switched to the green environment.
 - **Canary Deployment**: new version is rolled out to a small subset of users first
