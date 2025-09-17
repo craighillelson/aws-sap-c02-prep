@@ -11,6 +11,10 @@ scored content)
 - Domain 4: Accelerate Workload Migration and Modernization (20% of
 scored content)
 
+# Resources
+- [Service Quotas](https://docs.aws.amazon.com/general/latest/gr/aws-service-information.html)
+- [The Well Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+
 # Security Groups vs NACLs
 
 | Security Groups                                                                                                                   | NACLs                                                                                      |
