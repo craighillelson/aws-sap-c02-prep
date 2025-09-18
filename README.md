@@ -36,6 +36,7 @@ scored content)
 
 - [AWS DataSync](https://aws.amazon.com/datasync/)
 - [AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/)
+- [Amazon Forecast](https://aws.amazon.com/forecast/): ML based time series forecasting service
 - [Amazon Translate](https://aws.amazon.com/translate/): ML based language translation service
 
 # Terms
