@@ -4,10 +4,10 @@
 
 # Domains
 - **Domain 1**: Design Solutions for Organizational Complexity (26% of
-sc**ored con**tent)
+scored content)
 - **Domain 2**: Design for New Solutions (29% of scored content)
 - **Domain 3**: Continuous Improvement for Existing Solutions (25% of
-sc**ored con**tent)
+scored content)
 - **Domain 4**: Accelerate Workload Migration and Modernization (20% of
 scored content)
 
