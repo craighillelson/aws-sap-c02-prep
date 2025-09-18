@@ -38,7 +38,9 @@ scored content)
 - [AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/)
 
 # Terms
-**Forward Web Proxy Server**: accepts requests from your private network and forwards them to the internet, acting as an intermediary for clients
+- **ASN**: Autonomous System Number
+- **BGP**: Border Gateway Protocol
+- **Forward Web Proxy Server**: accepts requests from your private network and forwards them to the internet, acting as an intermediary for clients
 
 **Deployment Strategies**
 - **Blue/Green Deployment**: two identical environments, one (blue) running the current application version and the other (green) running the new version. After testing, traffic is switched to the green environment.
