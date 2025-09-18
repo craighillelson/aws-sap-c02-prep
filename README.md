@@ -40,11 +40,10 @@ scored content)
 # Terms
 - **ASN**: Autonomous System Number
 - **BGP**: Border Gateway Protocol
+- **Deployment Strategies**
+    - **Blue/Green Deployment**: two identical environments, one (blue) running the current application version and the other (green) running the new version. After testing, traffic is switched to the green environment.
+    - **Canary Deployment**: new version is rolled out to a small subset of users first
+    - **Rolling Deployment**: new version is gradually rolled out to all instances in the environment, replacing the old version incrementally
+    - **Immutable Deployment**: new version is deployed to a new set of instances, and once verified, the old instances are terminated
+    - **All-at-once Deployment**: new version is deployed to all instances simultaneously
 - **Forward Web Proxy Server**: accepts requests from your private network and forwards them to the internet, acting as an intermediary for clients
-
-**Deployment Strategies**
-- **Blue/Green Deployment**: two identical environments, one (blue) running the current application version and the other (green) running the new version. After testing, traffic is switched to the green environment.
-- **Canary Deployment**: new version is rolled out to a small subset of users first
-- **Rolling Deployment**: new version is gradually rolled out to all instances in the environment, replacing the old version incrementally
-- **Immutable Deployment**: new version is deployed to a new set of instances, and once verified, the old instances are terminated
-- **All-at-once Deployment**: new version is deployed to all instances simultaneously
