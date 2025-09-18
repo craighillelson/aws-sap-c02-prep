@@ -39,7 +39,7 @@ scored content)
 
 # Terms
 - **ASN**: Autonomous System Number
-- **BGP**: Border Gateway Protocol
+- **BGP**: Border Gateway Protocol, used by some AWS services such as Direct Connect and Dynamic Site to Site VPNs
 - **Deployment Strategies**
     - **Blue/Green Deployment**: two identical environments, one (blue) running the current application version and the other (green) running the new version. After testing, traffic is switched to the green environment.
     - **Canary Deployment**: new version is rolled out to a small subset of users first
