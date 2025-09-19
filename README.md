@@ -39,6 +39,7 @@ scored content)
 - [Amazon Forecast](https://aws.amazon.com/forecast/): ML based time series forecasting service
 - [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)
 - [Amazon Polly](https://aws.amazon.com/polly/)
+- [Amazon Transcribe](https://aws.amazon.com/transcribe/)
 - [Amazon Translate](https://aws.amazon.com/translate/): ML based language translation service
 
 # Terms
