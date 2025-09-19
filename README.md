@@ -50,3 +50,7 @@ scored content)
     - **Immutable Deployment**: new version is deployed to a new set of instances, and once verified, the old instances are terminated
     - **All-at-once Deployment**: new version is deployed to all instances simultaneously
 - **Forward Web Proxy Server**: accepts requests from your private network and forwards them to the internet, acting as an intermediary for clients
+- **IPSEC VPN**
+    - group of protocols
+    - sets up secure tunnels across insecure networks
+    - provides authentication and encryption
