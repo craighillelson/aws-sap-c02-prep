@@ -54,3 +54,4 @@ scored content)
     - group of protocols
     - sets up secure tunnels across insecure networks
     - provides authentication and encryption
+    - peers exchange public keys and then use a combination of each other's publci keys ad their private keys to produce a shared key
