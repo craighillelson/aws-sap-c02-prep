@@ -43,6 +43,7 @@ scored content)
 - [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)
 - [Amazon Polly](https://aws.amazon.com/polly/)
 - [Amazon Site to Site VPN](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)
+- [AWS Systems Manager](https://aws.amazon.com/systems-manager/)
 - [Amazon Textract](https://aws.amazon.com/textract/)
 - [Amazon Transcribe](https://aws.amazon.com/transcribe/)
 - [Amazon Translate](https://aws.amazon.com/translate/): ML based language translation service
