@@ -34,6 +34,7 @@ scored content)
     - CloudHSM:
         - AWS provisioned, customer managed 
         - no native integration with other AWS services
+        - enables TDE for Oracle databases
 - [Amazon CloudWatch Metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html)
 
     **Metrics Retention**
