@@ -58,7 +58,9 @@ scored content)
 - [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)
 - [Amazon Polly](https://aws.amazon.com/polly/)
 - [Amazon Route 53](https://aws.amazon.com/route53/)
-    - Multi Value Routing
+    - Simple Routing
+    - Failover Routing
+    - Multi Value Routing: improves availability
     - Weighted Routing
     - Latency Routing
     - Geolocation Routing
