@@ -31,7 +31,9 @@ scored content)
 # Services
 - [AWS CloudHSM](https://aws.amazon.com/cloudhsm/)
     - KMS: AWS managed, separate HSM for each customer but runs on shared hardware
-    - CloudHSM: AWS provisioned, customer managed 
+    - CloudHSM:
+        - AWS provisioned, customer managed 
+        - no native integration with other AWS services
 - [Amazon CloudWatch Metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html)
 
     **Metrics Retention**
