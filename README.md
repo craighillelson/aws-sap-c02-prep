@@ -79,3 +79,4 @@ scored content)
     - sets up secure tunnels across insecure networks
     - provides authentication and encryption
     - peers exchange public keys and then use a combination of each other's public keys ad their private keys to produce a symmetrical IPSEC key
+- **VIF**: Virtual Interface, a logical interface that connects your AWS resources to your on-premises network
