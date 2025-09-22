@@ -57,6 +57,12 @@ scored content)
 - [Amazon Forecast](https://aws.amazon.com/forecast/): ML based time series forecasting service
 - [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)
 - [Amazon Polly](https://aws.amazon.com/polly/)
+- [Amazon Route 53](https://aws.amazon.com/route53/)
+    - Multi Value Routing
+    - Weighted Routing
+    - Latency Routing
+    - Geolocation Routing
+    - Geoproximity Routing
 - [Amazon Site to Site VPN](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)
 - [AWS Systems Manager](https://aws.amazon.com/systems-manager/)
     - agent architecture
