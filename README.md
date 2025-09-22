@@ -42,6 +42,7 @@ scored content)
     - data points with a period of 60 seconds (1 minute) are available for 15 days
     - data points with a period of 300 seconds (5 minutes) are available for 63 days
     - data points with a period of 3600 seconds (1 hour) are available for 455 days (15 months)
+- [AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)
 - [AWS DataSync](https://aws.amazon.com/datasync/)
 - [AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/)
 - [Amazon Forecast](https://aws.amazon.com/forecast/): ML based time series forecasting service
