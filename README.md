@@ -18,6 +18,14 @@ scored content)
 - do not grant permissions
 - define maximum permissions for IAM roles
 
+# Policy Evaluation Logic
+1. Explicit deny
+1. SCP
+1. Resource policy
+1. Permissions boundar
+1. Session policy
+1. Identity policy
+
 # Security Groups vs NACLs
 
 | Security Groups                                                                                                                   | NACLs                                                                                      |
