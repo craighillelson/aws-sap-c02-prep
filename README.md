@@ -33,6 +33,7 @@ scored content)
     - KMS: AWS managed, separate HSM for each customer but runs on shared hardware
     - CloudHSM: AWS provisioned, customer managed 
 - [Amazon CloudWatch Metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html)
+
     **Metrics Retention**
     - data points with a period of less than 60 seconds are available for 3 hours (high-resolution custom metrics only)
     - data points with a period of 60 seconds (1 minute) are available for 15 days
