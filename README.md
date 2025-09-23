@@ -65,6 +65,9 @@ scored content)
     - Latency Routing
     - Geolocation Routing
     - Geoproximity Routing
+- [AWS Shield](https://aws.amazon.com/shield/)
+    - **Standard**: automatic, no additional cost, protects against most common DDoS attacks
+    - **Advanced**: additional cost, 24/7 access to DDoS response team (DRT), cost protection, WAF credits, global threat environment dashboard
 - [Amazon Site to Site VPN](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)
 - [AWS Systems Manager](https://aws.amazon.com/systems-manager/)
     - agent architecture
